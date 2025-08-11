@@ -11,6 +11,7 @@ These notebooks are designed to be easily downloaded and run in Google Colab —
   - Notebook 1: Black holes & Spacetime
   - Notebook 2: Generating Waveforms
   - Notebook 3: Bayesian Parameter Estimation & Population Inference
+ 
   These are ready for review and testing.
 
 - **short_result (folder):**  
