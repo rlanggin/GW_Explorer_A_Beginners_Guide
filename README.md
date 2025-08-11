@@ -7,7 +7,11 @@ These notebooks are designed to be easily downloaded and run in Google Colab —
 ## Repository Structure
 
 - **Notebook Drafts (in main folder):**  
-  Three Jupyter notebooks in draft form, each progressively exploring key concepts and data analysis techniques in gravitational wave astronomy. These are ready for review and testing.
+  Three Jupyter notebooks in draft form, each progressively exploring key concepts and data analysis techniques in gravitational wave astronomy.
+  - Notebook 1: Black holes & Spacetime
+  - Notebook 2: Generating Waveforms
+  - Notebook 3: Bayesian Parameter Estimation & Population Inference
+  These are ready for review and testing.
 
 - **short_result (folder):**  
   Contains JSON files with posterior results and output data supporting the analysis presented in the third notebook.
