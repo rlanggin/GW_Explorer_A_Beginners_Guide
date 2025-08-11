@@ -11,7 +11,7 @@ This project aims to introduce high-school students to the exciting field of gra
   Contains JSON files with posterior results and output data supporting the analysis presented in the third notebook.
 
 - **data (folder):**  
-  Includes the (`GWTC-3.0-confident`)[https://gwosc.org/eventapi/html/GWTC-3-confident/] event catalog in CSV format, providing population parameters used throughout the notebooks.
+  Includes the [`GWTC-3.0-confident`](https://gwosc.org/eventapi/html/GWTC-3-confident/) event catalog in CSV format, providing population parameters used throughout the notebooks.
 
 ## Goals
 
@@ -23,6 +23,6 @@ This project aims to introduce high-school students to the exciting field of gra
 
 Feel free to explore the notebooks and data, and provide feedback through the Google Forms below to help improve this educational resource!
 
-(Pre-Survey)[https://docs.google.com/forms/d/e/1FAIpQLSdbTzn3XoIySoXvOa5ajYg2tJqrssi-N6nn5PaqCcN87beawQ/viewform?usp=sharing&ouid=112310447946088646823]
+[Pre-Survey](https://docs.google.com/forms/d/e/1FAIpQLSdbTzn3XoIySoXvOa5ajYg2tJqrssi-N6nn5PaqCcN87beawQ/viewform?usp=sharing&ouid=112310447946088646823)
 
-(Post-Survey)[https://docs.google.com/forms/d/e/1FAIpQLScQPKPLOm3XSZ-SxSdLcqYnx-KSWXbtQ-0g_OgcVR5kqfzLEg/viewform?usp=sharing&ouid=112310447946088646823]
+[Post-Survey](https://docs.google.com/forms/d/e/1FAIpQLScQPKPLOm3XSZ-SxSdLcqYnx-KSWXbtQ-0g_OgcVR5kqfzLEg/viewform?usp=sharing&ouid=112310447946088646823)
