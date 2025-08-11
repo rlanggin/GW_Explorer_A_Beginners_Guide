@@ -2,7 +2,7 @@
 
 This project aims to introduce high-school students to the exciting field of Gravitational-Wave (GW) astrophysics through hands-on educational Python Jupyter Notebooks. The tutorials are designed to build foundational understanding by guiding students step-by-step in exploring real GW data and analyses.
 
-These notebooks are designed to be easily downloaded and run in Google Colab — simply download and run!
+These notebooks are designed to be easily downloaded and run in Google Colab — simply download, upload to Google, and run!
 
 ## Repository Structure
 
