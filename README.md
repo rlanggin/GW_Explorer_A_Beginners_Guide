@@ -1,2 +1,28 @@
 # GW_Explorer_A_Beginners_Guide
-This project aims to introduce high-school students to the field of gravitational waves (GWs) astrophysics, through educational Python Jupyter Notebooks.
+
+This project aims to introduce high-school students to the exciting field of gravitational wave (GW) astrophysics through hands-on educational Python Jupyter Notebooks. The tutorials are designed to build foundational understanding by guiding students step-by-step in exploring real GW data and analyses.
+
+## Repository Structure
+
+- **Notebook Drafts (in main folder):**  
+  Three Jupyter notebooks in draft form, each progressively exploring key concepts and data analysis techniques in gravitational wave astronomy. These are ready for review and testing.
+
+- **short_result (folder):**  
+  Contains JSON files with posterior results and output data supporting the analysis presented in the third notebook.
+
+- **data (folder):**  
+  Includes the (`GWTC-3.0-confident`)[https://gwosc.org/eventapi/html/GWTC-3-confident/] event catalog in CSV format, providing population parameters used throughout the notebooks.
+
+## Goals
+
+- Engage students with interactive code exploring real gravitational wave events.
+- Demonstrate core concepts of Bayesian inference, parameter estimation, and astrophysical source properties.
+- Foster computational skills with Python tools commonly used in GW research.
+
+---
+
+Feel free to explore the notebooks and data, and provide feedback through the Google Forms below to help improve this educational resource!
+
+(Pre-Survey)[https://docs.google.com/forms/d/e/1FAIpQLSdbTzn3XoIySoXvOa5ajYg2tJqrssi-N6nn5PaqCcN87beawQ/viewform?usp=sharing&ouid=112310447946088646823]
+
+(Post-Survey)[https://docs.google.com/forms/d/e/1FAIpQLScQPKPLOm3XSZ-SxSdLcqYnx-KSWXbtQ-0g_OgcVR5kqfzLEg/viewform?usp=sharing&ouid=112310447946088646823]
