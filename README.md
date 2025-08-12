@@ -2,12 +2,12 @@
 
 This project aims to introduce high-school students to the exciting field of Gravitational-Wave (GW) astrophysics through hands-on educational Python Jupyter Notebooks. The tutorials are designed to build a foundational understanding to both coding and GW astrophysics by guiding students step-by-step in exploring real GW data and analyses.
 
-These notebooks are designed to be easily downloaded and run in Google Colab — simply download, upload to Google, and run!
+These notebooks are designed to be easily downloaded and run in Google Colab — simply download, upload to Google Drive, and run (only the notebooks are required)!
 
 ## Repository Structure
 
 - **Notebook Drafts (in main folder):**  
-  Three Jupyter notebooks in draft form, each progressively exploring key concepts and data analysis techniques in gravitational wave astronomy.
+  Three Jupyter notebooks in draft form, each progressively exploring key concepts and data analysis techniques in Gravitational-Wave astronomy.
   - Notebook 1: Black holes & Spacetime
   - Notebook 2: Generating Waveforms
   - Notebook 3: Bayesian Parameter Estimation & Population Inference
@@ -22,7 +22,7 @@ These notebooks are designed to be easily downloaded and run in Google Colab —
 
 ## Goals
 
-- Engage students with interactive code exploring real gravitational wave events.
+- Engage students with interactive code exploring real Gravitational-Wave events.
 - Demonstrate core concepts of Bayesian inference, parameter estimation, and astrophysical source properties.
 - Foster computational skills with Python tools commonly used in GW research.
 
