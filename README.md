@@ -2,7 +2,10 @@
 
 This project aims to introduce high-school students to the exciting field of Gravitational-Wave (GW) astrophysics through hands-on educational Python Jupyter Notebooks. The tutorials are designed to build a foundational understanding of both coding and GW astrophysics by guiding students step-by-step in exploring real GW data and analyses.
 
-These notebooks can be easily downloaded and run in Google Colab — simply download, upload to Google Drive, and run (only the notebooks are required)!
+## Run in [Google Colab](https://colab.research.google.com)
+1. Download the Jupyter Notebooks (.ipynb files) 1–3 from the main repository.
+2. Upload the notebooks to a folder in your Google Drive.
+3. In Google Drive, right-click on the notebook file and select “Open with → Google Colaboratory”. (If you don’t see this option, you may need to install the [Google Colab](https://colab.research.google.com) Drive extension.)
 
 ## Repository Structure
 
