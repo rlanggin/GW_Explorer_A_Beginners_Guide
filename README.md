@@ -5,7 +5,7 @@ This project aims to introduce high-school students to the exciting field of Gra
 ## Run in [Google Colab](https://colab.research.google.com)
 1. Download the Jupyter Notebooks (.ipynb files) 1–3 from the main repository (they will not render properly in Git due to interactive widgets).
 2. Upload the notebooks to a folder in your Google Drive.
-3. In Google Drive, right-click on the notebook file and select “Open with → Google Colaboratory”. (If you don’t see this option, you may need to install the [Google Colab](https://colab.research.google.com) Drive extension.)
+3. In Google Drive, right-click on the notebook file and select “Open with → Google Colaboratory”. (If you don’t see this option, you may need to install the [Google Colab](https://colab.research.google.com) Drive extension: `Open with` $\rightarrow$ `Connect more apps` $\rightarrow$ Find "Google Colaboratory")
 
 ## Repository Structure
 
@@ -14,7 +14,7 @@ This project aims to introduce high-school students to the exciting field of Gra
   - Notebook 1: Black holes & Spacetime
   - Notebook 2: Generating Waveforms
   - Notebook 3: Bayesian Parameter Estimation & Population Inference
- 
+
   These are ready for review and testing.
 
 - **short_result (folder):**  
