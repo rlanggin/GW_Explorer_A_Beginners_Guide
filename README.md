@@ -31,10 +31,4 @@ This project aims to introduce high-school students to the exciting field of Gra
 
 ---
 
-Feel free to explore the notebooks and data, and provide feedback through the Google Forms below to help improve this educational resource!
-
-## Surveys 
-
-[Pre-Survey](https://docs.google.com/forms/d/e/1FAIpQLSdbTzn3XoIySoXvOa5ajYg2tJqrssi-N6nn5PaqCcN87beawQ/viewform?usp=sharing&ouid=112310447946088646823)
-
-[Post-Survey](https://docs.google.com/forms/d/e/1FAIpQLScQPKPLOm3XSZ-SxSdLcqYnx-KSWXbtQ-0g_OgcVR5kqfzLEg/viewform?usp=sharing&ouid=112310447946088646823)
+Feel free to explore the notebooks and data, and provide feedback through my [direct email](mailto:rachel.langgin@ligo.org) to help improve this educational resource!
